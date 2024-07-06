@@ -1,4 +1,4 @@
-# DistributedDataBalancer
+# Distributed File System With Load Balancer
 
 ## Description
 This project is a distributed system that enables low storage devices to train image data on the device itself, without requiring large amounts of local storage. The system utilizes Apache Kafka to distribute batches of images to worker nodes, which then send the images to a head node for model training.
